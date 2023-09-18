@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tomislav96, 25 year old undergraduate student
+- 👋 Hi, I’m @Tomislav96, 27 year old
 - 👀 I’m passionate about learning new technologies. Team player. Also have a lot of hobbies.
 - 🌱 I’m currently learnining Vue.js, Spring Boot
 
